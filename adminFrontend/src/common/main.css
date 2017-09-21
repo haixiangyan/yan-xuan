@@ -1,0 +1,20 @@
+.el-table .info {
+    background: #c9e5f5;
+}
+
+.el-table .success {
+    background: #e2f0e4;
+}
+
+.el-table .warning {
+    background: #A7BA2A;
+}
+
+.el-table .danger {
+    background: #CC4949;
+}
+
+.yan-breadcrumb {
+    font-size: 17px;
+    margin-bottom: 10px;
+}

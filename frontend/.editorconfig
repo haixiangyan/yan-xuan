@@ -1,0 +1,13 @@
+root = true
+
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+
+[{"ID": 1,"type": "1套装 伸缩杆懒人拖把+懒人抹布 4卷装+40片装 地板清洁湿巾 3包装","number": 1,"price":50,"name":"懒人清洁新选择","picture":"/static/img/goodsImage/0/headImage/1.jpg"
+}]

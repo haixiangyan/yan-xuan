@@ -1,0 +1,28 @@
+/*公共 css 样式*/
+
+a,
+p,
+div,
+span,
+input {
+    font-family: PingFangSC-Light, helvetica, 'Heiti SC';
+    font-size: 36px;
+    color: rgb(51, 51, 51);
+    max-height: 999999px;
+}
+
+a {
+    text-decoration: none;
+}
+
+i {
+    color: #333;
+}
+
+
+/*改变滚动条的样式*/
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}

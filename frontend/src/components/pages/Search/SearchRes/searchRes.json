@@ -1,0 +1,255 @@
+[
+    {
+        "category": "居家",
+        "subCategory": [
+            {
+                "title": "夏凉"
+            },
+            {
+                "title": "被枕"
+            },
+            {
+                "title": "床品件套"
+            },
+            {
+                "title": "布艺软装"
+            },
+            {
+                "title": "家具"
+            },
+            {
+                "title": "灯具"
+            },
+            {
+                "title": "家饰"
+            },
+            {
+                "title": "生活电器"
+            },
+            {
+                "title": "宠物"
+            }
+        ]
+    },
+    {
+        "category": "餐厨",
+        "subCategory": [
+            {
+                "title": "锅具"
+            },
+            {
+                "title": "杯壶"
+            },
+            {
+                "title": "功能厨具"
+            },
+            {
+                "title": "餐具"
+            },
+            {
+                "title": "茶具咖啡具"
+            },
+            {
+                "title": "清洁保鲜"
+            },
+            {
+                "title": "刀剪砧板"
+            },
+            {
+                "title": "厨房小电"
+            }
+        ]
+    },
+    {
+        "category": "配件",
+        "subCategory": [
+            {
+                "title": "行李箱"
+            },
+            {
+                "title": "功能箱包"
+            },
+            {
+                "title": "双肩包"
+            },
+            {
+                "title": "单肩包"
+            },
+            {
+                "title": "男鞋"
+            },
+            {
+                "title": "女鞋"
+            },
+            {
+                "title": "拖鞋"
+            },
+            {
+                "title": "围巾件套"
+            },
+            {
+                "title": "配饰"
+            },
+            {
+                "title": "数码"
+            }
+        ]
+    },
+    {
+        "category": "服装",
+        "subCategory": [
+            {
+                "title": "T恤"
+            },
+            {
+                "title": "裤装"
+            },
+            {
+                "title": "内裤"
+            },
+            {
+                "title": "内衣"
+            },
+            {
+                "title": "家居服"
+            },
+            {
+                "title": "袜子"
+            },
+            {
+                "title": "丝袜"
+            },
+            {
+                "title": "衬衫"
+            },
+            {
+                "title": "卫衣"
+            },
+            {
+                "title": "毛巾"
+            },
+            {
+                "title": "婴童服饰"
+            }
+        ]
+    },
+    {
+        "category": "洗护",
+        "subCategory": [
+            {
+                "title": "毛巾"
+            },
+            {
+                "title": "面部护理"
+            },
+            {
+                "title": "口腔护理"
+            },
+            {
+                "title": "身体护理"
+            },
+            {
+                "title": "香薰"
+            },
+            {
+                "title": "洗发护发"
+            },
+            {
+                "title": "美妆"
+            },
+            {
+                "title": "家庭清洁"
+            },
+            {
+                "title": "浴室用具"
+            }
+        ]
+    },
+    {
+        "category": "婴童",
+        "subCategory": [
+            {
+                "title": "婴幼儿服饰"
+            },
+            {
+                "title": "儿童服饰"
+            },
+            {
+                "title": "配搭"
+            },
+            {
+                "title": "妈咪"
+            },
+            {
+                "title": "寝居"
+            },
+            {
+                "title": "玩具"
+            },
+            {
+                "title": "婴童洗护"
+            },
+            {
+                "title": "喂养"
+            },
+            {
+                "title": "童车童椅"
+            }
+        ]
+    },
+    {
+        "category": "杂货",
+        "subCategory": [
+            {
+                "title": "出行用品"
+            },
+            {
+                "title": "收纳"
+            },
+            {
+                "title": "海外"
+            },
+            {
+                "title": "文具"
+            },
+            {
+                "title": "户外"
+            },
+            {
+                "title": "眼镜"
+            }
+        ]
+    },
+    {
+        "category": "饮食",
+        "subCategory": [
+            {
+                "title": "糕点"
+            },
+            {
+                "title": "小食"
+            },
+            {
+                "title": "果干"
+            },
+            {
+                "title": "炒货"
+            },
+            {
+                "title": "冲饮"
+            },
+            {
+                "title": "茗茶"
+            },
+            {
+                "title": "肉制品"
+            },
+            {
+                "title": "调味"
+            },
+            {
+                "title": "食材"
+            }
+        ]
+    }
+]
