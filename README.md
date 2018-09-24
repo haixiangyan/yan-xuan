@@ -7,9 +7,9 @@ Some plugins like v-distpicker, vue-star-rating and mockjs are applied to this p
 
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Fx9Dsnajno" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Demo](http://img.youtube.com/vi/_Fx9Dsnajno/0.jpg)](http://www.youtube.com/watch?v=_Fx9Dsnajno "Demo")
 
-## How to run
+## How to run
 
 #### 后台运行网站
 ```
