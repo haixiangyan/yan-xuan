@@ -11,7 +11,6 @@ Some plugins like v-distpicker, vue-star-rating and mockjs are applied to this p
 
 ## How to run
 
-#### 后台运行网站
 ```
 $ cd yanxuan
 
