@@ -17,7 +17,7 @@ export const cart = [{
           "type": Random.ctitle(4, 6),
           "number": Random.natural(1, 3),
           "price": Random.natural(20, 2000),
-          "picture": `/static/img/cart/cartItem.png`
+          "picture": `static/img/cart/cartItem.png`
         }
 
         result.data.push(cartItem);

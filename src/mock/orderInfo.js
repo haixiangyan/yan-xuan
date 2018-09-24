@@ -30,7 +30,7 @@ export const orderInfo = [{
             "type": Random.ctitle(),
             "price": Random.natural(20, 2000),
             "name": Random.ctitle(5, 9),
-            "picture": "/static/img/cart/cartItem.png"
+            "picture": "static/img/cart/cartItem.png"
           },
           {
             "ID": "1",
@@ -38,7 +38,7 @@ export const orderInfo = [{
             "type": Random.ctitle(),
             "price": Random.natural(20, 2000),
             "name": Random.ctitle(5, 9),
-            "picture": "/static/img/cart/cartItem.png"
+            "picture": "static/img/cart/cartItem.png"
           },
           {
             "ID": "1",
@@ -46,7 +46,7 @@ export const orderInfo = [{
             "type": Random.ctitle(),
             "price": Random.natural(20, 2000),
             "name": Random.ctitle(5, 9),
-            "picture": "/static/img/cart/cartItem.png"
+            "picture": "static/img/cart/cartItem.png"
           }
         ]
       }
@@ -83,7 +83,7 @@ export const orderInfo = [{
             "type": Random.ctitle(),
             "price": Random.natural(20, 2000),
             "name": Random.ctitle(5, 9),
-            "picture": "/static/img/cart/cartItem.png"
+            "picture": "static/img/cart/cartItem.png"
           },
           {
             "ID": "1",
@@ -91,7 +91,7 @@ export const orderInfo = [{
             "type": Random.ctitle(),
             "price": Random.natural(20, 2000),
             "name": Random.ctitle(5, 9),
-            "picture": "/static/img/cart/cartItem.png"
+            "picture": "static/img/cart/cartItem.png"
           },
           {
             "ID": "1",
@@ -99,7 +99,7 @@ export const orderInfo = [{
             "type": Random.ctitle(),
             "price": Random.natural(20, 2000),
             "name": Random.ctitle(5, 9),
-            "picture": "/static/img/cart/cartItem.png"
+            "picture": "static/img/cart/cartItem.png"
           },
                     {
             "ID": "1",
@@ -107,7 +107,7 @@ export const orderInfo = [{
             "type": Random.ctitle(),
             "price": Random.natural(20, 2000),
             "name": Random.ctitle(5, 9),
-            "picture": "/static/img/cart/cartItem.png"
+            "picture": "static/img/cart/cartItem.png"
           },
                     {
             "ID": "1",
@@ -115,7 +115,7 @@ export const orderInfo = [{
             "type": Random.ctitle(),
             "price": Random.natural(20, 2000),
             "name": Random.ctitle(5, 9),
-            "picture": "/static/img/cart/cartItem.png"
+            "picture": "static/img/cart/cartItem.png"
           }
         ]
       },
@@ -141,7 +141,7 @@ export const orderInfo = [{
             "type": Random.ctitle(),
             "price": Random.natural(20, 2000),
             "name": Random.ctitle(5, 9),
-            "picture": "/static/img/cart/cartItem.png"
+            "picture": "static/img/cart/cartItem.png"
           },
           {
             "ID": "1",
@@ -149,7 +149,7 @@ export const orderInfo = [{
             "type": Random.ctitle(),
             "price": Random.natural(20, 2000),
             "name": Random.ctitle(5, 9),
-            "picture": "/static/img/cart/cartItem.png"
+            "picture": "static/img/cart/cartItem.png"
           },
           {
             "ID": "1",
@@ -157,7 +157,7 @@ export const orderInfo = [{
             "type": Random.ctitle(),
             "price": Random.natural(20, 2000),
             "name": Random.ctitle(5, 9),
-            "picture": "/static/img/cart/cartItem.png"
+            "picture": "static/img/cart/cartItem.png"
           }
         ]
       },
@@ -183,7 +183,7 @@ export const orderInfo = [{
             "type": Random.ctitle(),
             "price": Random.natural(20, 2000),
             "name": Random.ctitle(5, 9),
-            "picture": "/static/img/cart/cartItem.png"
+            "picture": "static/img/cart/cartItem.png"
           },
           {
             "ID": "1",
@@ -191,7 +191,7 @@ export const orderInfo = [{
             "type": Random.ctitle(),
             "price": Random.natural(20, 2000),
             "name": Random.ctitle(5, 9),
-            "picture": "/static/img/cart/cartItem.png"
+            "picture": "static/img/cart/cartItem.png"
           },
           {
             "ID": "1",
@@ -199,7 +199,7 @@ export const orderInfo = [{
             "type": Random.ctitle(),
             "price": Random.natural(20, 2000),
             "name": Random.ctitle(5, 9),
-            "picture": "/static/img/cart/cartItem.png"
+            "picture": "static/img/cart/cartItem.png"
           }
         ]
       }

@@ -22,7 +22,7 @@ export const homeGood = [{
           subName: Random.ctitle(),
           chara: `${Random.natural(2, 4)}色可选`,
           price: Random.natural(20, 2000),
-          headImage: `/static/img/catalog/catalog-good-${Random.natural(1, 14)}.png`,
+          headImage: `static/img/catalog/catalog-good-${Random.natural(1, 14)}.png`,
           labels: [],
           ID: 1
         };

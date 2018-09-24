@@ -42,12 +42,12 @@ export const good = [{
             }
           ],
           "description": [
-            "/static/img/good/desc/desc-1.jpg",
-            "/static/img/good/desc/desc-2.jpg",
-            "/static/img/good/desc/desc-3.jpg",
-            "/static/img/good/desc/desc-4.jpg",
-            "/static/img/good/desc/desc-5.jpg",
-            "/static/img/good/desc/desc-6.jpg",
+            ".static/img/good/desc/desc-1.jpg",
+            ".static/img/good/desc/desc-2.jpg",
+            ".static/img/good/desc/desc-3.jpg",
+            ".static/img/good/desc/desc-4.jpg",
+            ".static/img/good/desc/desc-5.jpg",
+            ".static/img/good/desc/desc-6.jpg",
           ],
           "type": [
             Random.cname(4, 6),
@@ -58,16 +58,16 @@ export const good = [{
             Random.cname(4, 6),
           ],
           "headImage": [
-            "/static/img/good/header/head-1.jpg",
-            "/static/img/good/header/head-2.jpg",
-            "/static/img/good/header/head-3.jpg",
-            "/static/img/good/header/head-4.jpg",
-            "/static/img/good/header/head-5.jpg",
+            ".static/img/good/header/head-1.jpg",
+            ".static/img/good/header/head-2.jpg",
+            ".static/img/good/header/head-3.jpg",
+            ".static/img/good/header/head-4.jpg",
+            ".static/img/good/header/head-5.jpg",
           ],
           "shortDescriptionImage": [
-            "/static/img/good/short/short-1.jpg",
-            "/static/img/good/short/short-2.jpg",
-            "/static/img/good/short/short-3.jpg",
+            ".static/img/good/short/short-1.jpg",
+            ".static/img/good/short/short-2.jpg",
+            ".static/img/good/short/short-3.jpg",
           ],
           "shortDescription": [
             Random.cword(4),
@@ -86,12 +86,12 @@ export const good = [{
           "type": "红色",
           "__v": 0,
           "picture": [
-            "/static/img/good/comment/pic.jpg",
-            "/static/img/good/comment/pic.jpg",
+            ".static/img/good/comment/pic.jpg",
+            ".static/img/good/comment/pic.jpg",
           ]
         },
         {
-          "customerPicture": "/static/img/good/comment/avatar.jpg",
+          "customerPicture": ".static/img/good/comment/avatar.jpg",
           "customerName": Random.cname(2, 3)
         }
       ]

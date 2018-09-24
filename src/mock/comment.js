@@ -24,7 +24,7 @@ export const comment = [{
         "type": Random.ctitle(4, 7),
         "__v": 0,
         "picture": [
-          "/static/img/good/comment/pic.jpg"
+          "static/img/good/comment/pic.jpg"
         ]
       };
 
@@ -34,7 +34,7 @@ export const comment = [{
     // 获取评论的作者
     for (let i = 0; i < 10; i++) {
       let user = {
-        "customerPicture": "/static/img/good/comment/avatar.jpg",
+        "customerPicture": "static/img/good/comment/avatar.jpg",
         "customerName": Random.cname(3, 5)
       }
 

@@ -16,7 +16,7 @@ export const home = [{
           subName: Random.ctitle(),
           price: Random.natural(0, 200),
           ID: 1,
-          headImage: `/static/img/goods/good-${Random.natural(1, 16)}.png`,
+          headImage: `static/img/goods/good-${Random.natural(1, 16)}.png`,
           chara: Random.ctitle(),
           labels: []
         };
@@ -51,7 +51,7 @@ export const home = [{
           subName: Random.ctitle(),
           price: Random.natural(0, 200),
           ID: 1,
-          headImage: `/static/img/goods/good-${Random.natural(1, 16)}.png`,
+          headImage: `static/img/goods/good-${Random.natural(1, 16)}.png`,
           chara: Random.ctitle(),
           labels: []
         };
@@ -92,7 +92,7 @@ export const home = [{
             subName: Random.ctitle(),
             chara: `${Random.natural(2, 4)}色可选`,
             price: Random.natural(20, 2000),
-            headImage: `/static/img/catalog/catalog-good-${Random.natural(1, 14)}.png`,
+            headImage: `static/img/catalog/catalog-good-${Random.natural(1, 14)}.png`,
             labels: [],
             ID: 1
           };
@@ -124,7 +124,7 @@ export const homeStatic = [{
         data: {
           url: '/',
           next: 123878273,
-          img: '/static/img/counter/counter-img.png',
+          img: 'static/img/counter/counter-img.png',
           currentPrice: 14.9,
           previousPrice: 59.9,
           deadline: 523878273
@@ -144,7 +144,7 @@ export const homeStatic = [{
           name: '严选办公室人手必备神器大公开',
           desc: '久坐伏案人士请收好',
           price: 14,
-          img: '/static/img/topic-preface/preface.jpg'
+          img: 'static/img/topic-preface/preface.jpg'
         }
       }
       return result;

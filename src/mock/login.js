@@ -25,7 +25,7 @@ export const login = [{
                 "interest": ["鞋靴外搭", "洗护用品", "智能硬件"],
                 "name": '海怪',
                 "gender": "female",
-                "photo": "/static/img/loginImage/itemsBgImage.png"
+                "photo": "static/img/loginImage/itemsBgImage.png"
             }
         }
         return data;
@@ -40,7 +40,7 @@ export const login = [{
                 "_id": "596c602df31dea029c81bc58",
                 "telephone": "18805862675",
                 "password": "123456",
-                // "photo": "/static/img/loginImage/userHeadPortrait/1.gif",
+                // "photo": "static/img/loginImage/userHeadPortrait/1.gif",
                 "photo": "",
                 // "name": "xu",
                 "name": "",
