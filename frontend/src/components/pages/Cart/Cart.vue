@@ -72,13 +72,16 @@ export default {
         }
         this.$http({
             method: 'get',
-            url: `/shop/cart/${this.user.userID}`
+            url: `/shop/cart/-1`
+            // url: `/shop/cart/${this.user.userID}`
         })
             .then((res) => {
                 // 初始化购物车的商品
                 res.body.data.forEach((element) => {
                     element.select = 1;
                 });
+
+                console.log(res.body.data)
 
                 // 将商品的购物车存到 vuex 中
                 this.$store.commit('initCart', {

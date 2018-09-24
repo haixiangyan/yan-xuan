@@ -90,7 +90,7 @@ export default {
         // 发送请求，获取订单的详情
         this.$http({
             method: 'get',
-            url: `/shop/customerOrder/${this.user.userID}`
+            url: `/shop/customerOrder/-1`
         })
             .then((res) => {
                 this.orderListInfo = res.body.order;

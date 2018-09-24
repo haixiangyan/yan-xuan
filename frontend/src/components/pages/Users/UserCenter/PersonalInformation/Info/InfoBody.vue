@@ -17,7 +17,7 @@
             </li>
             <li class="list-item">
                 <span>昵称</span>
-                <input type="text" :value="mountedUser.name" v-model="mountedUser.name">
+                <input type="text" v-model="mountedUser.name">
             </li>
             <li class="list-item">
                 <span>性别</span>

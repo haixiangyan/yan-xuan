@@ -37,7 +37,8 @@ let data = [].concat(
     comment,
     cart,
     address,
-    orderInfo
+    orderInfo,
+    topic
 );
  
 

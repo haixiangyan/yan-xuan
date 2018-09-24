@@ -59,7 +59,7 @@ export default {
         // 发送请求，获取地址信息
         this.$http({
             method: 'get',
-            url: `/users/Address/${this.user.userID}`
+            url: `/users/Address/-1`
         })
             .then((res) => {
                 this.addressList = res.body.data;
