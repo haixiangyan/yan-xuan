@@ -35,37 +35,37 @@ export default {
                     title: '首页',
                     url: '/',
                     className: 'fa fa-home fa-2x',
-                    img: '/static/icons/home.png',
-                    activeImg: '/static/icons/active-home.png'
+                    img: 'static/icons/home.png',
+                    activeImg: 'static/icons/active-home.png'
                 },
                 {
                     title: '专题',
                     url: '/topic',
                     className: 'fa fa-dribbble fa-2x',
-                    img: '/static/icons/topic.png',
-                    activeImg: '/static/icons/active-topic.png'
+                    img: 'static//icons/topic.png',
+                    activeImg: 'static//icons/active-topic.png'
                 },
                 {
                     title: '分类',
                     url: '/category',
                     className: 'fa fa-th-large fa-2x',
-                    img: '/static/icons/category.png',
-                    activeImg: '/static/icons/active-category.png'
+                    img: 'static//icons/category.png',
+                    activeImg: 'static//icons/active-category.png'
                 },
                 {
                     title: '购物车',
                     url: '/cart',
                     className: 'fa fa-shopping-cart fa-2x',
-                    img: '/static/icons/cart.png',
-                    activeImg: '/static/icons/active-cart.png'
+                    img: 'static//icons/cart.png',
+                    activeImg: 'static//icons/active-cart.png'
                 },
             ],
             userTab: {
                     title: '个人',
                     url: '/users/0',
                     className: 'fa fa-user-o fa-2x',
-                    img: '/static/icons/user.png',
-                    activeImg: '/static/icons/active-user.png'
+                    img: 'static//icons/user.png',
+                    activeImg: 'static//icons/active-user.png'
                 }
         }
     },

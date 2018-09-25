@@ -3,7 +3,7 @@
         <!--轮播图-->
         <el-carousel arrow="never" class="yan-carousel" height="500px">
             <el-carousel-item v-for="(item, index) in 4" :key="index">
-                <img class="yan-carousel-img" :src="`/static/img/banner/banner-${item}.jpg`" alt="banner">
+                <img class="yan-carousel-img" :src="`static/img/banner/banner-${item}.jpg`" alt="banner">
             </el-carousel-item>
         </el-carousel>
     
@@ -84,23 +84,23 @@ export default {
                 {
                     name: '新秀丽制造商',
                     price: 59,
-                    img: '/static/img/brand/brand-1.jpg',
+                    img: 'static/img/brand/brand-1.jpg',
                     label: '上新'
                 },
                 {
                     name: 'Coach制造商',
                     price: 49,
-                    img: '/static/img/brand/brand-2.jpg',
+                    img: 'static/img/brand/brand-2.jpg',
                 },
                 {
                     name: 'CK制造商',
                     price: 36,
-                    img: '/static/img/brand/brand-3.jpg',
+                    img: 'static/img/brand/brand-3.jpg',
                 },
                 {
                     name: 'Police制造商',
                     price: 59,
-                    img: '/static/img/brand/brand-4.jpg',
+                    img: 'static/img/brand/brand-4.jpg',
                     label: '上新'
                 },
             ],
