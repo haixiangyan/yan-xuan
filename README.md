@@ -7,9 +7,15 @@ Some plugins like v-distpicker, vue-star-rating and mockjs are applied to this p
 
 ## Demo
 
-Web => [Demo link](https://haixiang6123.github.io/yan-xuan/#/home/recommend)
+### Web
 
-Video => [![Demo](http://img.youtube.com/vi/_Fx9Dsnajno/0.jpg)](http://www.youtube.com/watch?v=_Fx9Dsnajno "Demo")
+[Click to see the demo](https://haixiang6123.github.io/yan-xuan/#/home/recommend)
+
+### Video
+
+Click to watch demo video on Yoututbe.
+
+[![Demo](http://img.youtube.com/vi/_Fx9Dsnajno/0.jpg)](http://www.youtube.com/watch?v=_Fx9Dsnajno "Demo")
 
 ## How to run
 
