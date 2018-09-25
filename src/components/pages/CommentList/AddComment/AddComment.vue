@@ -3,7 +3,7 @@
         <!-- 头部 -->
         <div class="header">
             <!-- 返回按钮 -->
-            <img @click="back" src="/static/icons/back.png" alt="back">
+            <img @click="back" src="static/icons/back.png" alt="back">
 
             <span class="header-title">发表评价</span>
 
@@ -44,7 +44,7 @@
 
                     <!-- 删除图片 -->
                     <span @click="removeCommentImage(index)">
-                        <img src="/static/icons/close.png" alt="close">
+                        <img src="static/icons/close.png" alt="close">
                     </span>
                 </div>
 

@@ -18,7 +18,7 @@ export default {
     props: ['id'],
     data() {
         return {
-            bgImage: '/static/img/loginImage/itemsBgImage.png',
+            bgImage: 'static/img/loginImage/itemsBgImage.png',
             items:[
                 {
                     txt:"我的订单",

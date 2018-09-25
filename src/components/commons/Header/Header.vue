@@ -3,7 +3,7 @@
         <!-- 回到首页 -->
         <div class="yan-header-home">
             <router-link to="/">
-                <img src="/static/icons/home.png" alt="search">
+                <img src="static/icons/home.png" alt="search">
             </router-link>
         </div>
     
@@ -16,12 +16,12 @@
         <div class="yan-header-footer">
             <!-- 搜索 -->
             <router-link to="/search">
-                <img src="/static/icons/search.png" alt="search">
+                <img src="static/icons/search.png" alt="search">
             </router-link>
 
             <!-- 购物车 -->
             <router-link to="/cart">
-                <img src="/static/icons/cart.png" alt="search">
+                <img src="static/icons/cart.png" alt="search">
                 <yan-badge v-show="displayCartNum!==0" :num="displayCartNum"></yan-badge>
             </router-link>
         </div>

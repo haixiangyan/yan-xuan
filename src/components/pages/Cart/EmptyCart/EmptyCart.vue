@@ -9,7 +9,7 @@
 
         <!-- 内容 -->
         <div class="content">
-            <img src="/static/icons/empty-cart.png" alt="empty">
+            <img src="static/icons/empty-cart.png" alt="empty">
             <p>去添加点什么吧</p>
 
             <router-link tag="div" to="/login" v-show="!isLogin" class="yan-cart-login">

@@ -18,7 +18,7 @@
 
     <!-- 更多 -->
     <div class="yan-address-more">
-      <img src="/static/icons/more.png" alt="more">
+      <img src="static/icons/more.png" alt="more">
     </div>
   </div>
 </template>

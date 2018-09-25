@@ -37,11 +37,11 @@ export default {
             selectedIndex: 0,
             paymentWays: [
                 {
-                    img: '/static/icons/alipay.png',
+                    img: 'static/icons/alipay.png',
                     name: '支付宝'
                 },
                 {
-                    img: '/static/icons/wechat.png',
+                    img: 'static/icons/wechat.png',
                     name: '微信支付'
                 }
             ]

@@ -38,9 +38,9 @@ export default {
     bg() {
       switch (this.index) {
         case 0:
-          return '/static/img/header/header-1.png';
+          return 'static/img/header/header-1.png';
         case 1:
-          return '/static/img/header/header-2.png'
+          return 'static/img/header/header-2.png'
       }
     }
   }

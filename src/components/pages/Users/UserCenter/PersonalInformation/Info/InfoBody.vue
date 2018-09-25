@@ -37,7 +37,7 @@
                 <span>感兴趣的分类</span>
             </div>
             <div class="info-body-li-right">
-                <div><img class="render" src="/static/img/loginImage/render.png" alt=""></div>
+                <div><img class="render" src="static/img/loginImage/render.png" alt=""></div>
             </div>
         </div> 
 

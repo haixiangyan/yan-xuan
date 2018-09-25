@@ -23,9 +23,9 @@
         </div>
 
         <div class="login-footer">
-            <div class="weixin"><img src="/static/img/loginImage/weixin.png">微信</div>
-            <div class="qq"><img src="/static/img/loginImage/QQ.png">QQ</div>
-            <div class="weibo"><img src="/static/img/loginImage/weibo.png">微博</div>
+            <div class="weixin"><img src="static/img/loginImage/weixin.png">微信</div>
+            <div class="qq"><img src="static/img/loginImage/QQ.png">QQ</div>
+            <div class="weibo"><img src="static/img/loginImage/weibo.png">微博</div>
         </div>
 
         <transition enter-active-class="animated fadeIn" leave-active-class="animated fadeOut">

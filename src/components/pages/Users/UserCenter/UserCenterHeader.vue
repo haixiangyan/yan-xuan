@@ -38,7 +38,7 @@ export default {
             }
 
             if(!this.thisUser.photo ){
-                this.thisUser.photo = '/static/img/loginImage/userHeadPortrait/default.png';
+                this.thisUser.photo = 'static/img/loginImage/userHeadPortrait/default.png';
             }
 
             this.$store.commit('initUser', {

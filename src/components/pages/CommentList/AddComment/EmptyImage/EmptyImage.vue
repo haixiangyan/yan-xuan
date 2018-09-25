@@ -10,7 +10,7 @@
             type="file">
     </form>
 
-    <img src="/static/icons/video.png" alt="video">
+    <img src="static/icons/video.png" alt="video">
 
     <span v-show="curNum === 0">添加图片</span>
 

@@ -51,7 +51,7 @@
 
                 <div class="yan-good-comment-more">
                     查看全部
-                    <img src="/static/icons/more.png" alt="more">
+                    <img src="static/icons/more.png" alt="more">
                 </div>
             </router-link>
 

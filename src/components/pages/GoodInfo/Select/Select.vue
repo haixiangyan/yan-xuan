@@ -7,7 +7,7 @@
         </div>
 
         <div>
-            <img src="/static/icons/more.png" alt="more">
+            <img src="static/icons/more.png" alt="more">
         </div>
     </router-link>
 
@@ -20,7 +20,7 @@
         </div>
 
         <div>
-            <img src="/static/icons/more.png" alt="more">
+            <img src="static/icons/more.png" alt="more">
         </div>
     </router-link>
 
@@ -41,7 +41,7 @@
         </div>
 
         <div>
-            <img src="/static/icons/more.png" alt="more">
+            <img src="static/icons/more.png" alt="more">
         </div>
     </router-link>
   </div>

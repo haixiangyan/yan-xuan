@@ -8,7 +8,7 @@
                 <div class="interest-item-img">
                     <img :src="item.source" :alt="item.title">
                     <div class="selected" v-if="interestedList[index].interested">
-                        <img src="/static/img/loginImage/selected.png" alt="">
+                        <img src="static/img/loginImage/selected.png" alt="">
                     </div>
                 </div>
                 <div class="interest-item-title">{{item.title}}</div>
@@ -110,63 +110,63 @@ export default {
         this.items.push(
             {
                 title:'床品被枕',
-                source:'/static/img/loginImage/interest/床品被枕.png'
+                source:'static/img/loginImage/interest/床品被枕.png'
             }, 
             {
                 title:'餐厨用品',
-                source:'/static/img/loginImage/interest/餐厨用品.png'
+                source:'static/img/loginImage/interest/餐厨用品.png'
             },
             {
                 title:'居家神器',
-                source:'/static/img/loginImage/interest/居家神器.png'
+                source:'static/img/loginImage/interest/居家神器.png'
             },
             {
                 title:'家居家饰',
-                source:'/static/img/loginImage/interest/家居家饰.png'
+                source:'static/img/loginImage/interest/家居家饰.png'
             },
             {
                 title:'鞋靴外搭',
-                source:'/static/img/loginImage/interest/鞋靴外搭.png'
+                source:'static/img/loginImage/interest/鞋靴外搭.png'
             },
             {
                 title:'内衣裤袜',
-                source:'/static/img/loginImage/interest/内衣裤袜.png'
+                source:'static/img/loginImage/interest/内衣裤袜.png'
             },
             {
                 title:'箱包差旅',
-                source:'/static/img/loginImage/interest/箱包差旅.png'
+                source:'static/img/loginImage/interest/箱包差旅.png'
             },
             {
                 title:'洗护用品',
-                source:'/static/img/loginImage/interest/洗护用品.png'
+                source:'static/img/loginImage/interest/洗护用品.png'
             },
             {
                 title:'办公文具',
-                source:'/static/img/loginImage/interest/办公文具.png'
+                source:'static/img/loginImage/interest/办公文具.png'
             },
             {
                 title:'茶点零食',
-                source:'/static/img/loginImage/interest/茶点零食.png'
+                source:'static/img/loginImage/interest/茶点零食.png'
             },
             {
                 title:'宠物用品',
-                source:'/static/img/loginImage/interest/宠物用品.png'
+                source:'static/img/loginImage/interest/宠物用品.png'
             },
             {
                 title:'运动音乐',
-                source:'/static/img/loginImage/interest/运动音乐.png'
+                source:'static/img/loginImage/interest/运动音乐.png'
             },
             {
                 title:'母婴用品',
-                source:'/static/img/loginImage/interest/母婴用品.png'
+                source:'static/img/loginImage/interest/母婴用品.png'
             },
             {
                 title:'车载用品',
-                source:'/static/img/loginImage/interest/车载用品.png'
+                source:'static/img/loginImage/interest/车载用品.png'
             },
             {
                 title:'智能硬件',
-                source:'/static/img/loginImage/interest/智能硬件.png'
+                source:'static/img/loginImage/interest/智能硬件.png'
             });
 
         this.items.forEach(function(element) {

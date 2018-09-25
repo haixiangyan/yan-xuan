@@ -2,7 +2,7 @@
   <div class="yan-empty-address">
     <span>添加你的收货地址</span>
 
-    <img src="/static/icons/more.png" alt="more">
+    <img src="static/icons/more.png" alt="more">
   </div>
 </template>
 

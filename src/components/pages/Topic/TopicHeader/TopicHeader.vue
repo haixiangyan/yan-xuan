@@ -18,19 +18,19 @@ export default {
             msg: 'Topic Header',
             header_items: [{
                         item_name: '丁磊私物推荐',
-						img: '/static/img/topicImage/topic-1.jpg',
+						img: 'static/img/topicImage/topic-1.jpg',
                     },
                     {
                         item_name: '严选推荐',
-						img: '/static/img/topicImage/topic-2.jpg',
+						img: 'static/img/topicImage/topic-2.jpg',
                     },
                     {
                         item_name: '挑款师推荐',
-						img: '/static/img/topicImage/topic-3.png',
+						img: 'static/img/topicImage/topic-3.png',
                     },
                     {
                         item_name: '明星商品',
-						img: '/static/img/topicImage/topic-4.png',
+						img: 'static/img/topicImage/topic-4.png',
                     }]
         }
     },

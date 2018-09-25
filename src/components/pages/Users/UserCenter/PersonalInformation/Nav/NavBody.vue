@@ -6,7 +6,7 @@
             </div>
             <div class="nav-body-li-render">
                 <div><img :src="nav_img" alt=""></div>
-                <div><img class="render" src="/static/img/loginImage/render.png" alt=""></div>
+                <div><img class="render" src="static/img/loginImage/render.png" alt=""></div>
             </div>
         </router-link>
         <div class="nav-body-li">
@@ -15,7 +15,7 @@
             </div>
             <div class="nav-body-li-render">
                 <div><span>普通用户</span></div>
-                <div><img class="render" src="/static/img/loginImage/render.png" alt=""></div>
+                <div><img class="render" src="static/img/loginImage/render.png" alt=""></div>
             </div>
         </div>
     </div>
@@ -27,7 +27,7 @@ export default {
     props: ['id'],
     data() {
         return{
-            nav_img: '/static/img/loginImage/userHeadPortrait/nav-img.png'
+            nav_img: 'static/img/loginImage/userHeadPortrait/nav-img.png'
         }
     },
     computed:{

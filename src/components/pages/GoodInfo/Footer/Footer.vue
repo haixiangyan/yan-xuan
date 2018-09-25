@@ -2,7 +2,7 @@
     <div class="yan-good-footer">
         <!-- 联系店家 -->
         <div tag="div"  class="yan-contact">
-            <img @click="toService" v-if="!isBack" src="/static/icons/service.png" alt="contact">
+            <img @click="toService" v-if="!isBack" src="static/icons/service.png" alt="contact">
             <span @click="back" v-if="isBack">返回</span>
         </div>
     

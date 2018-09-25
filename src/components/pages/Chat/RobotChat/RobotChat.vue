@@ -2,7 +2,7 @@
     <div class="yan-robot-chat">
         <!-- 头像 -->
         <div class="avatar">
-            <img src="/static/img/chat/robot.png" alt="robot">
+            <img src="static/img/chat/robot.png" alt="robot">
         </div>
 
         <!-- 聊天内容 -->

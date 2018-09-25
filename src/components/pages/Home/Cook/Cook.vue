@@ -14,7 +14,7 @@ import YanCatalog from '@/components/pages/Home/Catalog/Catalog';
 export default {
     data() {
         return {
-            headerImg: '/static/img/cook/header.jpg',
+            headerImg: 'static/img/cook/header.jpg',
             cookInfo: {}
         }
     },

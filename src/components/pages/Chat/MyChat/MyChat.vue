@@ -12,7 +12,7 @@
     
             <!-- 头像 -->
             <div class="avatar">
-                <img src="/static/img/chat/robot.png" alt="my">
+                <img src="static/img/chat/robot.png" alt="my">
             </div>
         </div>
     

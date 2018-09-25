@@ -2,7 +2,7 @@
     <div class="choose-num">
         <!-- 减一件 -->
         <div @click="sub" class="sub">
-            <img src="/static/icons/subtract.png" alt="sub">
+            <img src="static/icons/subtract.png" alt="sub">
         </div>
     
         <div class="num">
@@ -11,7 +11,7 @@
     
         <!-- 加一件 -->
         <div @click="add" class="add">
-            <img src="/static/icons/add.png" alt="add">
+            <img src="static/icons/add.png" alt="add">
         </div>
     </div>
 </template>

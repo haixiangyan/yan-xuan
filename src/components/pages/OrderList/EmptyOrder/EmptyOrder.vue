@@ -1,6 +1,6 @@
 <template>
   <div class="yan-empty-order">
-    <img src="/static/icons/empty-order.png" alt="empty">
+    <img src="static/icons/empty-order.png" alt="empty">
     <div>还没有任何订单呢</div>
   </div>
 </template>
